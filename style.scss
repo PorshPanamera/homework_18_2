@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+}
+img {
+  max-width: 300px;
+}
+
+#js_btn {
+  padding: 20% 0 5% 45%;
+  button {
+    padding: 20px;
+    border-radius: 20px;
+    border-style: none;
+    background-color: darkred;
+    color: azure;
+    box-shadow: 0px 0px 50px 20px red;
+  }
+}
+#random_img {
+  padding-left: 42%;
+}
